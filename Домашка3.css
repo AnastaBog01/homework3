@@ -1,0 +1,23 @@
+h1{
+  color: #1E90FF;
+}
+.seasons{
+  list-style: none;
+  list-style-image: url("free-icon-right-arrows-3240687.png");
+}
+.winter{
+  list-style: none;
+  list-style-image: url("free-icon-snowflake-2411812.png");
+}
+.sping{
+  list-style: none;
+  list-style-image: url("free-icon-snowflake-2411812.png");
+}
+.summer{
+  list-style: none;
+  list-style-image: url("free-icon-tulip-616435.png");
+}
+.autumn{
+  list-style: none;
+  list-style-image: url("free-icon-maple-leaf-8324912.png");
+}
